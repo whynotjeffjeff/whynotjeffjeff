@@ -1,5 +1,5 @@
 import os
-dir = './md/'
+dir = './posts/'
 mds = os.listdir(dir)
 mds.sort()
 lis = []
