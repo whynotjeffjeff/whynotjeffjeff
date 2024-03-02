@@ -9,7 +9,7 @@ def t_c(f):
     til = time.localtime(ti)
     return time.strftime("%Y-%m-%d %H:%M:%S", til)
 
-dir = './md/'
+dir = './posts/'
 name = os.listdir(dir)
 print(">>>File : " + str(len(name)) + " files")
 mdline = []
