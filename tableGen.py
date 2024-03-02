@@ -13,7 +13,7 @@ dir = './posts/'
 name = os.listdir(dir)
 print(">>>File : " + str(len(name)) + " files")
 mdline = []
-url = 'https://github.com/nthr3ads/nthr3ads/blob/master/md/'
+url = 'https://github.com/nthr3ads/nthr3ads/blob/master/posts/'
 for i in name:
     link = '[' + i.split('.md')[0] + '](' + url + i + ')'
     mdline.append("|" + t_c(dir + i) + "|" + t(dir + i) + "|" + link)
