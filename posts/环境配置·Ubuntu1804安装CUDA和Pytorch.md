@@ -1,3 +1,12 @@
+---
+title: 环境配置·Ubuntu1804安装CUDA和Pytorch
+date: 2021-04-06 12:01:51
+type: "环境配置"
+comments: false
+top_img: false
+---
+
+
 ## Init Ubuntu and change deb&pip source
 ```sh
 wget https://github.com/ebxeax/ebxeax.github.io/blob/main/toolbox/initUbuntu/initUbuntu.sh
