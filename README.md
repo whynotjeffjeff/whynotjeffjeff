@@ -1,32 +1,31 @@
 # Welcome to my homepage
 
-![ebxeax's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebxeax&count_private=true&theme=dark)
+![nthr3ads's GitHub stats](https://github-readme-stats.vercel.app/api?username=nthr3ads&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ebxeax&layout=compact&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nthr3ads&layout=compact&count_private=true&theme=dark)
 
 ## Website [temp use waiting for finishing post sys]
-- [https://ebxeax.github.io](https://ebxeax.github.io)
-- [https://ebxeax.vercel.app](https://ebxeax.vercel.app)
+- [https://nthr3ads.github.io](https://nthr3ads.github.io)
 
 ## Markdown Table 
 
 
 |created date|lastest modified date|markdown links|
 |-|-|-|
-|2024-03-02 22:39:57|2024-03-02 21:53:57|[数据库·简述](https://github.com/ebxeax/ebxeax/blob/master/md/数据库·简述.md)
-|2024-03-02 22:39:57|2024-03-02 21:52:35|[计算机组成原理·Cache和主存的映射替换算法和写策略](https://github.com/ebxeax/ebxeax/blob/master/md/计算机组成原理·Cache和主存的映射替换算法和写策略.md)
-|2024-03-02 22:39:57|2024-03-02 21:51:57|[计算机组成原理·指令系统](https://github.com/ebxeax/ebxeax/blob/master/md/计算机组成原理·指令系统.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机网络·网络层](https://github.com/ebxeax/ebxeax/blob/master/md/计算机网络·网络层.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·虚拟存储器页式段式和段页式](https://github.com/ebxeax/ebxeax/blob/master/md/计算机组成原理·虚拟存储器页式段式和段页式.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·数据表示与运算](https://github.com/ebxeax/ebxeax/blob/master/md/计算机组成原理·数据表示与运算.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·中央处理器](https://github.com/ebxeax/ebxeax/blob/master/md/计算机组成原理·中央处理器.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[环境配置·Ubuntu1804安装CUDA和Pytorch](https://github.com/ebxeax/ebxeax/blob/master/md/环境配置·Ubuntu1804安装CUDA和Pytorch.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·线性表](https://github.com/ebxeax/ebxeax/blob/master/md/数据结构·线性表.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·简述](https://github.com/ebxeax/ebxeax/blob/master/md/数据结构·简述.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·栈和队列](https://github.com/ebxeax/ebxeax/blob/master/md/数据结构·栈和队列.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·查找算法](https://github.com/ebxeax/ebxeax/blob/master/md/数据结构·查找算法.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·基本概念](https://github.com/ebxeax/ebxeax/blob/master/md/数据结构·基本概念.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[操作系统·简述](https://github.com/ebxeax/ebxeax/blob/master/md/操作系统·简述.md)
-|2024-03-02 22:39:57|2024-01-30 21:17:10|[操作系统·同步问题](https://github.com/ebxeax/ebxeax/blob/master/md/操作系统·同步问题.md)
-|2024-03-02 22:39:56|2024-01-30 21:17:10|[计算机网络·传输层](https://github.com/ebxeax/ebxeax/blob/master/md/计算机网络·传输层.md)
-|2024-03-02 22:39:56|2024-01-30 21:17:10|[考研英语·作文模板](https://github.com/ebxeax/ebxeax/blob/master/md/考研英语·作文模板.md)
+|2024-03-02 22:39:57|2024-03-02 21:53:57|[数据库·简述](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据库·简述.md)
+|2024-03-02 22:39:57|2024-03-02 21:52:35|[计算机组成原理·Cache和主存的映射替换算法和写策略](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机组成原理·Cache和主存的映射替换算法和写策略.md)
+|2024-03-02 22:39:57|2024-03-02 21:51:57|[计算机组成原理·指令系统](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机组成原理·指令系统.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机网络·网络层](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机网络·网络层.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·虚拟存储器页式段式和段页式](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机组成原理·虚拟存储器页式段式和段页式.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·数据表示与运算](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机组成原理·数据表示与运算.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[计算机组成原理·中央处理器](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机组成原理·中央处理器.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[环境配置·Ubuntu1804安装CUDA和Pytorch](https://github.com/nthr3ads/nthr3ads/blob/master/md/环境配置·Ubuntu1804安装CUDA和Pytorch.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·线性表](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据结构·线性表.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·简述](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据结构·简述.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·栈和队列](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据结构·栈和队列.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·查找算法](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据结构·查找算法.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[数据结构·基本概念](https://github.com/nthr3ads/nthr3ads/blob/master/md/数据结构·基本概念.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[操作系统·简述](https://github.com/nthr3ads/nthr3ads/blob/master/md/操作系统·简述.md)
+|2024-03-02 22:39:57|2024-01-30 21:17:10|[操作系统·同步问题](https://github.com/nthr3ads/nthr3ads/blob/master/md/操作系统·同步问题.md)
+|2024-03-02 22:39:56|2024-01-30 21:17:10|[计算机网络·传输层](https://github.com/nthr3ads/nthr3ads/blob/master/md/计算机网络·传输层.md)
+|2024-03-02 22:39:56|2024-01-30 21:17:10|[考研英语·作文模板](https://github.com/nthr3ads/nthr3ads/blob/master/md/考研英语·作文模板.md)
